@@ -1,1 +1,1 @@
-print('Hellow World! Be better version of yourself')
+print('Hellow World!')
